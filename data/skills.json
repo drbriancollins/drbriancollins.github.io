@@ -1,0 +1,223 @@
+{
+ "scale": "Advanced | Working proficiency | Familiarity",
+ "categories": [
+  {
+   "name": "Simulation and Engineering Models",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "APSIM, APSIM NextGen, AquaCrop, SiriusQuality, DSSAT, ORYZA, WOFOST, CropWAT, SWAP, SWAT, WinSRFR, HEC-RAS"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "CLEM, TUFLOW, HEC-HMS, WaterGEMS, SWMM, WEAP"
+    },
+    {
+     "level": "Familiarity",
+     "items": "REALM, DRAINS, SIRIUS"
+    }
+   ]
+  },
+  {
+   "name": "Programming and Data Analysis",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "R, Python, Pandas, NumPy, data.table, tidyverse"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "SQL, PySpark, Spark SQL, MATLAB"
+    },
+    {
+     "level": "Familiarity",
+     "items": "JavaScript/React, C#, C++, FORTRAN, VB.Net"
+    }
+   ]
+  },
+  {
+   "name": "Data Engineering and ETL/ELT",
+   "levels": [
+    {
+     "level": "Working proficiency",
+     "items": "Apache Spark, Azure Data Factory, Azure Synapse Analytics (Serverless SQL, Pipelines), Azure Data Lake Storage Gen2, Azure Blob Storage, Azure Event Hubs, Azure Stream Analytics, Databricks (Delta Lake, Unity Catalog, Volumes, Lakeflow Declarative Pipelines/DLT, Auto Loader, Databricks Asset Bundles, Databricks Connect), Microsoft Fabric (OneLake, Lakehouse, Data Factory/Pipelines, Delta Lake), Snowflake (Snowpark, Snowpipe, Streams, Tasks, Change Data Capture / CDC, external stages, storage integrations), REST APIs, batch and streaming ingestion, Change Data Capture (CDC), incremental processing, ETL/ELT, medallion architecture"
+    },
+    {
+     "level": "Familiarity",
+     "items": "schema-drift handling and metadata-driven ingestion"
+    }
+   ]
+  },
+  {
+   "name": "Databases, Data Modelling and Warehousing",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "Microsoft SQL Server"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "PostgreSQL, MySQL, SQLite, Databricks, Microsoft Fabric, Snowflake, dimensional modelling, star schemas, fact/dimension modelling, data marts, Bronze/Silver/Gold architectures"
+    },
+    {
+     "level": "Familiarity",
+     "items": "Microsoft Access"
+    }
+   ]
+  },
+  {
+   "name": "Business Intelligence and Visualisation",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "Power BI (DAX, Power Query, dashboards, semantic modelling), Excel, ggplot2"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "R Shiny, Matplotlib, Seaborn, Plotly, Microsoft Fabric (Power BI integration, Direct Lake-compatible modelling)"
+    },
+    {
+     "level": "Familiarity",
+     "items": "Tableau, SSRS"
+    }
+   ]
+  },
+  {
+   "name": "Machine Learning and Predictive Analytics",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "scikit-learn, caret"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "XGBoost, LightGBM, Keras, randomForest/ranger, Spark MLlib, Databricks ML, MLflow, forecasting, classification, regression, clustering, segmentation, feature engineering, model validation and hyperparameter optimisation"
+    },
+    {
+     "level": "Familiarity",
+     "items": "TensorFlow, PyTorch, tidymodels"
+    }
+   ]
+  },
+  {
+   "name": "Generative AI and RAG",
+   "levels": [
+    {
+     "level": "Working proficiency",
+     "items": "OpenAI API, LangChain, Azure AI Search (vector search and retrieval), embeddings, retrieval-augmented generation, document chunking/indexing, Streamlit"
+    },
+    {
+     "level": "Familiarity",
+     "items": "FAISS, Google PaLM API, OpenAI Codex"
+    }
+   ]
+  },
+  {
+   "name": "MLOps, DevOps and Deployment",
+   "levels": [
+    {
+     "level": "Working proficiency",
+     "items": "Azure Machine Learning (training, evaluation, model registry, deployment), MLflow (experiment tracking, model artefacts, model registry), GitHub Actions (CI/CD), Docker, Azure Container Registry, Azure Container Apps, automated testing, Conda environments"
+    },
+    {
+     "level": "Familiarity",
+     "items": "managed identity and cloud model-serving workflows"
+    }
+   ]
+  },
+  {
+   "name": "Cloud and Distributed Computing",
+   "levels": [
+    {
+     "level": "Working proficiency",
+     "items": "Microsoft Azure (Machine Learning, Databricks, Data Factory, Synapse Analytics, ADLS Gen2, Blob Storage, Event Hubs, Stream Analytics, AI Search, Key Vault, Container Registry, Container Apps), Microsoft Fabric, Databricks, Apache Spark, HPC (PBS Pro)"
+    },
+    {
+     "level": "Familiarity",
+     "items": "AWS (EC2, S3, IAM, SNS)"
+    }
+   ]
+  },
+  {
+   "name": "Statistical and Advanced Analytics",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "R, Python, Excel"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "experimental design, regression, multivariate analysis, time-series analysis, uncertainty analysis, trend detection, forecasting, cohort analysis, customer segmentation, risk analysis"
+    },
+    {
+     "level": "Familiarity",
+     "items": "SPSS"
+    }
+   ]
+  },
+  {
+   "name": "GIS and Remote Sensing",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "ArcGIS, Google Earth Engine, R, Python"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "QGIS"
+    },
+    {
+     "level": "Familiarity",
+     "items": "MapWindow"
+    }
+   ]
+  },
+  {
+   "name": "Development, Version Control and Reproducibility",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "RStudio, Jupyter Notebook, GitHub Desktop, SourceTree"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "Git, GitHub, JupyterLab, Subversion, automated testing, reproducible environments"
+    },
+    {
+     "level": "Familiarity",
+     "items": "Git Bash"
+    }
+   ]
+  },
+  {
+   "name": "Project Management and Collaboration",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "Trello, Excel"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "Jira, Asana"
+    },
+    {
+     "level": "Familiarity",
+     "items": "Microsoft Project"
+    }
+   ]
+  },
+  {
+   "name": "Productivity and Other Tools",
+   "levels": [
+    {
+     "level": "Advanced",
+     "items": "Microsoft Word, PowerPoint, Visio, Google Docs, Google Sheets"
+    },
+    {
+     "level": "Working proficiency",
+     "items": "Adobe Photoshop, Adobe Premiere, Google Analytics"
+    }
+   ]
+  }
+ ]
+}

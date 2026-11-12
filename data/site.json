@@ -1,0 +1,146 @@
+{
+ "name": "Brian Collins",
+ "postnominals": "PhD, PMP®",
+ "headline": "Senior Agricultural Scientist | Senior Analytics & Data Platforms Specialist | Certified Project Manager",
+ "location": "Brisbane QLD, Australia",
+ "updated": "November 2026",
+ "links": [
+  {"label": "LinkedIn", "url": "https://www.linkedin.com/in/drbriancollins"},
+  {"label": "Google Scholar", "url": "https://scholar.google.com/citations?user=UDJ355oAAAAJ"},
+  {"label": "ResearchGate", "url": "https://www.researchgate.net/profile/Brian-Collins-6"},
+  {"label": "GitHub", "url": "https://github.com/drbriancollins/MySampleWork"}
+ ],
+ "stats": [
+  {"value": "92", "label": "peer-reviewed papers, plus 3 books and 66 conference presentations"},
+  {"value": "~2,150", "label": "citations, h-index 21 (June 2026)"},
+  {"value": "14", "label": "funded research projects in Australia and Iran"},
+  {"value": "~AUD 2.5M", "label": "funding led or co-led; contributions to projects worth >AUD 4.6M"},
+  {"value": "15", "label": "postgraduate research supervisions"}
+ ],
+ "about": [
+  "I am an agricultural scientist, data specialist and certified project manager with about 20 years of experience across research, industry and engineering roles in Australia, France and Iran. My work combines crop physiology, hydrology, agrometeorology and cropping-systems modelling with data engineering, analytics and machine learning.",
+  "I have held research roles at the University of Queensland, James Cook University and the University of Southern Queensland, and earlier positions with Limagrain Europe and INRA-SupAgro in France. Before that, I worked as an engineer, senior engineer and project manager on irrigation, drainage and water-resources projects in Iran.",
+  "My research brings together crop, soil and water processes to improve productivity, resource-use efficiency and climate resilience. Combining field data, remote sensing and process-based models such as APSIM, I build tools and frameworks that support practical decisions by growers, industry and government.",
+  "Since December 2025 I have been working on independent product and data projects. Sample code is on GitHub."
+ ],
+ "expertise": [
+  {"group": "Agricultural science", "items": ["Crop physiology and agronomy", "Crop and agro-hydrological modelling", "Hydrology and agrometeorology", "Irrigation and drainage systems", "Climate variability and adaptation", "Decision and planning support systems"]},
+  {"group": "Data and analytics", "items": ["Data engineering and ETL/ELT", "Data warehousing and modelling", "Business intelligence", "Machine learning and AI", "Cloud and distributed computing", "Earth observation and geospatial analysis"]},
+  {"group": "Project management", "items": ["Project initiation and planning", "Schedule and budget management", "Risk and change management", "Team and resource management", "Agile and waterfall delivery", "Stakeholder engagement"]}
+ ],
+ "career": [
+  {"dates": "Dec 2025 – present", "role": "Personal Projects & Product Development", "org": "Self-employed"},
+  {"dates": "Dec 2023 – Nov 2025", "role": "Senior Research Fellow | Senior Data Scientist | Project Manager | Team Lead", "org": "University of Southern Queensland, Australia"},
+  {"dates": "Mar 2021 – Nov 2023", "role": "Senior Research Fellow | Senior Data Scientist | Project Manager", "org": "James Cook University, Australia"},
+  {"dates": "Nov 2017 – Feb 2021", "role": "Research Fellow | Data Scientist | Project Co-Lead", "org": "University of Queensland, Australia"},
+  {"dates": "Dec 2016 – Nov 2017", "role": "Co-Founder | CEO | Project Manager", "org": "Fannavaran Keyhan Danesh Novin Co, Iran"},
+  {"dates": "Nov 2016 – Apr 2017", "role": "Senior Engineer | Analytics Lead | Project Manager", "org": "Jarfab Payesh Consulting Engineers, Iran"},
+  {"dates": "Jun 2015 – Oct 2016", "role": "Research Associate | Data Scientist", "org": "Limagrain Europe / INRA-SupAgro, France"},
+  {"dates": "Jul 2006 – May 2015", "role": "Senior Engineer | Analytics Lead | Project Manager", "org": "Jarfab Payesh Consulting Engineers, Iran"},
+  {"dates": "Jun 2013 – Mar 2014", "role": "Head of Agriculture and Water Resources Research Group | Project Manager", "org": "Military Service, Iran"},
+  {"dates": "Sep 2012 – Jun 2013", "role": "Agricultural Modelling Specialist | Data Scientist", "org": "Saj Geo-information Consulting Firm, Iran"},
+  {"dates": "Jul 2010 – Aug 2012", "role": "Senior Flood Engineer", "org": "Lozan Civil Development Engineering Co, Iran"},
+  {"dates": "Sep 2008 – Oct 2012", "role": "PhD Research Assistant", "org": "University of Tehran, Iran"}
+ ],
+ "education": [
+  "PhD (Agricultural Engineering – Irrigation & Drainage), University of Tehran (2008–2012)",
+  "MSc (Agricultural Engineering – Irrigation & Drainage), University of Tehran (2005–2008)",
+  "BSc (Agricultural Engineering – Irrigation), University of Tehran (2001–2005)",
+  "Project Management Professional (PMP)®, Project Management Institute"
+ ],
+ "teaching": [
+  {"dates": "2013 – 2016", "role": "Invited Lecturer", "org": "Imam Khomeini International University, Iran", "details": ["Postgraduate: Water-Soil-Plant Relationship (2013–2014, MSc), Water Resources Management (2014, 2016, MSc), Advanced Hydrology (2014, 2016, MSc–PhD), Data Analysis and Visualisation (2014, 2016, MSc–PhD).", "Undergraduate: Irrigation Principles (2013–2014), Surface Irrigation Systems (2014, 2016), Pressurised Irrigation Systems (2014, 2016), Computer Programming (2013–2014, 2016)."]},
+  {"dates": "2008 – 2011", "role": "Laboratory Instructor and Teaching Assistant", "org": "University of Tehran, Iran", "details": ["Laboratory Instructor: Irrigation Principles Lab (2008, BSc).", "Teaching Assistant: Linear Programming (2011, PhD), Surface Irrigation Systems (2009, MSc), Sprinkle Irrigation Systems (2009, MSc), Irrigation Systems (2009, BSc), Irrigation Principles (2008, BSc)."]}
+ ],
+ "grants_summary": [
+  "14 funded projects across Australia and Iran as Project Lead, Co-Lead, Principal Investigator, Theme Lead or Supervisor.",
+  "Total funding led or co-led: ~AUD 2.5M; contributions to projects: >AUD 4.6M."
+ ],
+ "grants": [
+  "REMET-Rice: Reducing Methane Emissions from Rice: from Mechanistic Understanding to Scalable Crop Management Options (Project Co-Lead). 2025–2026. International Rice Research Institute. University of Southern Queensland, Toowoomba, Australia. AUD 100,000.",
+  "Improving Crop Monitoring and Access to Information by Smallholder Farmers and Government Decision-Makers in Vietnam (Project Lead). 2025–2026. Aus4Innovation (CSIRO/DFAT). University of Southern Queensland, Toowoomba, Australia. AUD 487,719.",
+  "Sodicity Management and Remediation Tool (SMART) (Supervisor). 2025–2028. GRDC. University of Southern Queensland, Toowoomba, Australia. AUD 600,000. Led by Dr Chloe Lai.",
+  "Australian Sesame Industry Program of Research – Theme 3: Modelling (Theme Lead). 2023–2028. AgriFutures. University of Southern Queensland, Toowoomba, Australia. AUD 250,000.",
+  "Understanding Sesame – Supporting the Development of a Viable and Sustainable Sesame Industry in Queensland (Project Co-Lead). Broadacre Cropping Initiative (BACI). 2021–2024. University of Southern Queensland, Toowoomba, Australia. AUD 853,128.",
+  "Predictive Farming: Improving Risk Management with AI-Enhanced Weather Forecasts and Crop Models (Project Lead). 2025–2028. CSIRO Industry PhD Scholarship Program. University of Southern Queensland, Toowoomba, Australia. AUD 250,000.",
+  "i-RAT – A Rapid Assessment Visualisation Tool for Incentivising Irrigation Stewardship for Mackay-Whitsundays Canegrowers (Project Lead). 2021–2023. Great Barrier Reef Foundation. James Cook University, Townsville, Australia. AUD 419,906.",
+  "i-RAT – A Rapid Assessment Visualisation Tool for Incentivising Irrigation Stewardship for Burdekin Canegrowers (Principal Investigator). 2020–2021. Great Barrier Reef Foundation. James Cook University, Townsville, Australia. AUD 399,985.",
+  "Impacts of Transpiration Efficiency and Its Components (Photosynthesis and Stomatal Conductance) in Promising Wheat Lines: a New Step Towards Further Genetic Improvement (Principal Investigator). 2020. ARC Centre of Excellence for Translational Photosynthesis Agility Grant. QAAFI, The University of Queensland, Toowoomba, Australia. AUD 50,000.",
+  "Genetic Variability and Yield Impact of Transpiration Efficiency and Its Components in Wheat (Principal Investigator). 2019. ARC Centre of Excellence for Translational Photosynthesis Agility Grant. QAAFI, The University of Queensland, Toowoomba, Australia. AUD 85,000.",
+  "Development of an AquaCrop-Based Modelling System to Quantify Actual Water Requirements of Strategic Field Crops in Iran (Project Lead). 2017. Qazvin Science and Technology Park, Iran. AUD 450,000 (Indicative Budget).",
+  "Estimation of CN and S Parameters for the Sub-Basins of the North Khorasan Province Using the SWAT Model (Project Lead). 2014–2015. North Khorasan Regional Water Company, Iran. AUD 300,000 (Indicative Budget).",
+  "Development and Application of a Planning Support System to Assess Strategies Related to Land and Water Resources for Adaptation to Climate Change (Project Lead). 2008–2012. Ministry of Energy, Tehran, Iran. AUD 250,000 (Indicative Budget).",
+  "Assessment of SWAT Model Performance in Zayandeh-Rud Watershed (Principal Investigator). 2007–2008. Ministry of Energy, Tehran, Iran. AUD 100,000 (Indicative Budget)."
+ ],
+ "supervision_summary": [
+  "15 postgraduate research supervisions across PhD, MSc, MRes and internships.",
+  "Roles included Principal Supervisor, Co-Supervisor and Consultant across Australia and Iran."
+ ],
+ "supervision": [
+  "Prabin Neupane. A modelling perspective on the impact of frost and heat shock damage in wheat: a systematic review. In progress. MSc Projects, The University of Southern Queensland, Australia. Principal Supervisor.",
+  "K C Prakash. The long-term impact of crop rotation on soil organic matter and nutrient cycling in wheat-based cropping systems. In progress. MSc Projects, The University of Southern Queensland, Australia. Principal Supervisor.",
+  "Ram Kumar Thapa. The water footprint of wheat production in Australia: how much water is exported? In progress. MSc Projects, The University of Southern Queensland, Australia. Principal Supervisor.",
+  "Binita Pandit. Long-term impacts of legume crops on the profitability of wheat-based cropping systems. In progress. MSc Projects, The University of Southern Queensland, Australia. Principal Supervisor.",
+  "Shahla Dehghanpir. Optimisation of wheat cultivation area based on water and food security in Iran. 2022. PhD Thesis, The University of Hormozgan, Iran. Co-Supervisor.",
+  "Asad Amin. Integrating crop modelling and genomics to improve plant breeding. 2021. PhD Thesis, The University of Queensland, Australia. Co-Supervisor.",
+  "Rezvan Bahrololoum. Applicability of gridded weather datasets for simulation of field crop growth. 2020. MRes Thesis, International University of Imam Khomeini, Iran. Co-Supervisor.",
+  "Jingke Liu. Genotypic variability in transpiration efficiency in wheat. 2019. MSc Postgraduate Course Work (Internship), The University of Queensland, Australia. Co-Supervisor.",
+  "Vahid Adabi. Using sensitivity analysis for reducing calibration parameters of crop models. 2019. MRes Thesis, International University of Imam Khomeini, Iran. Co-Supervisor.",
+  "Maryam Abdollahzadeh. Estimation of actual water requirements of strategic crops in Qazvin and Moghan plains. 2017. MRes Thesis, International University of Imam Khomeini, Iran. Co-Supervisor.",
+  "Mohsen Kaghazkonani. Assessment of applicability of CFSR climate data for modelling river discharge in diverse climates of Iran. 2017. MRes Thesis, Saeb Institute of Higher Education, Iran. Co-Supervisor.",
+  "Milad Ebrahimi. Performance evaluation of crop models under different levels of irrigation and nitrogen fertiliser (case study: maize). 2015. MRes Thesis, The University of Urmia, Iran. Co-Supervisor.",
+  "Bakhtiar Karimi. Simulation and optimisation of lateral depth according to moisture and salinity distribution in subsurface drip irrigation. 2013. PhD Thesis, The University of Tehran, Iran. Consultant.",
+  "Fatemeh Valinejad. Surface soil moisture simulation with SWAT (Ziyarat watershed case study). 2013. MRes Thesis, Gorgan University of Agricultural Sciences and Natural Resources, Iran. Co-Supervisor.",
+  "Hadi Ramezani Etedali. Development of an optimisation model for water allocation in irrigated and rainfed lands to increase economic productivity. 2012. PhD Thesis, The University of Tehran, Iran. Consultant."
+ ],
+ "certification": [
+  {"name": "Project Management Professional (PMP)®", "issuer": "Project Management Institute (PMI)"}
+ ],
+ "training": [
+  {"provider": "Google", "groups": [
+   {"topic": "Project management", "courses": ["Foundations of Project Management", "Project Initiation: Starting a Successful Project", "Project Planning: Putting It All Together", "Project Execution: Running the Project", "Agile Project Management"]}
+  ]},
+  {"provider": "Microsoft Learn", "groups": [
+   {"topic": "Azure data", "courses": ["Data integration at scale with Azure Data Factory or Azure Synapse Pipeline", "Build data analytics solutions using Azure Synapse serverless SQL pools"]},
+   {"topic": "Azure Machine Learning", "courses": ["Create machine learning models", "Deploy and consume models with Azure Machine Learning", "Train and manage a machine learning model with Azure Machine Learning", "Manage and review models in Azure Machine Learning", "Experiment with Azure Machine Learning", "Optimise model training with Azure Machine Learning", "Train models with scripts in Azure Machine Learning", "Explore and configure the Azure Machine Learning workspace"]},
+   {"topic": "Azure Databricks", "courses": ["Build machine learning solutions using Azure Databricks", "Implement a Data Engineering Solution with Azure Databricks", "Implement a Data Analytics Solution with Azure Databricks"]},
+   {"topic": "Microsoft Fabric", "courses": ["Get started with Microsoft Fabric"]},
+   {"topic": "Power BI", "courses": ["Model data with Power BI", "Use DAX in semantic models", "Prepare data for analysis with Power BI", "Design Effective Reports in Power BI", "Manage and Secure Power BI"]}
+  ]},
+  {"provider": "LinkedIn Learning", "groups": [
+   {"topic": "R", "courses": ["R Programming in Data Science: High Volume Data"]},
+   {"topic": "Python", "courses": ["Learning Python", "Learning the Python 3 Standard Library", "Python for Data Visualization", "Python Data Analysis", "Python for Data Science Tips, Tricks & Techniques", "Python Essential Libraries", "Python Object-Oriented Programming", "Python: XML, JSON, and the Web", "Advanced Python", "Learning Python with PyCharm", "pandas for Data Science", "Advanced Pandas", "Hands-On Data Science: 3 Sales Analysis in Python", "Python Data Structures: Linked Lists", "Learning Python Generators", "Text Analytics and Predictions with Python Essential Training", "Python: Working with Predictive Analytics", "Python: Programming Efficiently", "Data Ingestion with Python", "Python Code Challenges", "Using Python for Automation", "Python for Data Science Essential Training Part 1 & 2", "Data Science Foundations: Python Scientific Stack", "OpenCV for Python Developers", "Advanced NoSQL for Data Science"]},
+   {"topic": "SQL", "courses": ["Learning SQL Programming", "Advanced SQL for Data Scientists", "Advanced SQL: Logical Query Processing, Part 1", "Advanced SQL – Window Functions", "Advanced SQL for Data Science: Time Series", "SQL: Data Reporting and Analysis", "SQL Essential Training", "SQL for Exploratory Data Analysis Essential Training", "Microsoft SQL Server 2019 Essential Training", "SQL Server: Triggers, Stored Procedures and Functions", "MySQL for Advanced Analytics: Tips, Tricks, & Techniques", "Advanced SQL for Application Development", "Querying Microsoft SQL Server 2019", "SQL Tips, Tricks, & Techniques", "Designing Database Solutions for SQL Server 2016", "Advanced SQL for Query Tuning and Performance Optimization", "SQL Server 2016: Administer a Database Infrastructure", "Azure Data Studio Essential Training", "SQL Server: Reporting Services"]},
+   {"topic": "Data science and machine learning", "courses": ["A Day in the Life of a Data Scientist", "Data Science Foundations: Data Mining", "Applied Machine Learning: Foundations", "Applied Machine Learning: Algorithms", "Building a Recommendation System with Python Machine Learning & AI", "Business Analytics: Forecasting with Trended Baseline Smoothing", "Machine Learning for Marketing: Essential Training", "NLP with Python for Machine Learning Essential Training"]},
+   {"topic": "Azure and Databricks", "courses": ["Azure: Train deep learning models in Azure Databricks", "Azure: Explore and configure the Azure ML workspace", "Azure: Experiment with Azure ML", "Azure ML: Optimize model training with Azure Machine Learning", "Azure: Manage and review models in Azure ML", "Azure: Deploy and consume models with Azure ML", "Azure: Understanding the Big Picture", "Azure Administration: Implement and Manage Storage", "Azure ML Development: 2 Learning ML Studio", "Azure ML Development: 3 Deploying and Managing Models", "Azure Spark Databricks Essential Training", "Big Data Analytics with Hadoop and Apache Spark", "Azure Data Studio Essential Training", "Microsoft Azure: Active Directory"]},
+   {"topic": "Deep learning", "courses": ["Building Deep Learning Applications with Keras 2.0", "Functional Programming with Python", "Neural Networks and Convolutional Neural Networks Essential Training", "Accelerating TensorFlow with the Google Machine Learning Engine"]},
+   {"topic": "Spark", "courses": ["Introduction to Spark SQL and DataFrames", "Apache Spark Deep Learning Essential Training", "Apache Spark Essential Training", "Spark for Machine Learning & AI", "Apache PySpark by Example", "Cloud Hadoop: Scaling Apache Spark"]},
+   {"topic": "Business intelligence", "courses": ["Using Power BI with Excel", "Excel Business Intelligence: Power Query", "Excel Business Intelligence: Data Modelling 101", "Excel Business Intelligence: Power Pivot and DAX", "Tableau Essential Training", "Power BI Essential Training", "Learning Power BI Desktop", "Power BI Top Skills", "Power BI for Marketers", "Power BI Data Modelling with DAX", "Advanced Microsoft Power BI"]},
+   {"topic": "JavaScript", "courses": ["JavaScript Essential Training", "React.js Essential Training", "React.js: Building an Interface", "React Hooks"]},
+   {"topic": "AWS", "courses": ["Introduction to AWS for Non-Engineers: Security, Core Services, Billing and Pricing", "Machine Learning Data Readiness"]},
+   {"topic": "Adobe Premiere Pro", "courses": ["Premiere Pro 2020 Essential Training", "Premiere Pro: Mastering Effects and Transitions", "Premiere Pro Guru: Fixing Video Colour and Exposure Problems", "Premiere Pro for Self-Taught Editors", "Premiere Pro Guru: Audio Finishing Techniques", "Premiere Pro Quick Tips"]}
+  ]}
+ ],
+ "media": [
+  {"text": "FreshPlaza. 25 September 2023. “Australia and Vietnam develop AI crop maps”.", "url": "https://www.freshplaza.com/latin-america/article/9767701/australia-and-vietnam-develop-ai-crop-maps/"},
+  {"text": "The Land. 5 July 2023. “New tool shows how to save money and water”.", "url": "https://www.theland.com.au/story/8257583/new-tool-compares-irrigation-options/"},
+  {"text": "Cairns Local News. 4 July 2023. “Cane farm water saving tool”.", "url": "https://www.cairnslocalnews.com.au/business/canefarm-water-saving-tool"},
+  {"text": "Queensland Country Life. 4 July 2023. “New tool shows how to save money and water”.", "url": "https://www.queenslandcountrylife.com.au/story/8256099/new-tool-compares-irrigation-options/"},
+  {"text": "The Mirage. 23 June 2023. “i-RAT: a new tool for more efficient sugarcane irrigation”.", "url": "https://www.miragenews.com/i-rat-new-tool-for-more-efficient-sugarcane-1032839/"},
+  {"text": "Star 106.3 Townsville. 23 June 2023. Pre-recorded phone interview on i-RAT.", "url": ""},
+  {"text": "The National Tribune. 23 June 2023. “i-RAT: a new tool for more efficient sugarcane irrigation”.", "url": "https://www.nationaltribune.com.au/i-rat-new-tool-for-more-efficient-sugarcane-irrigation/"},
+  {"text": "The Australian. 7 March 2022. “JCU scientist warns Australia to prepare for more hot and dry weather”.", "url": "https://www.theaustralian.com.au/higher-education/jcu-scientists-warns-australia-to-prepare-for-more-hot-and-dry-weather/news-story/892bac60c743b972f4927e1b9783205f"},
+  {"text": "The Mirage. 23 February 2022. “Hot-and-dry years on the rise”.", "url": "https://www.miragenews.com/hot-and-dry-days-on-rise-729838/"},
+  {"text": "The National Tribune. 23 February 2022. “Hot-and-dry years on the rise”.", "url": "https://www.nationaltribune.com.au/hot-and-dry-days-on-rise/"}
+ ],
+ "committees": [
+  "Joint International Conference on Crop/Plant Modelling, Big Data and Applications, November 2025, Nanchang, China.",
+  "International Conference on Water Resource and Environment, July 2015, Beijing, China.",
+  "1st Conference and Exhibition on Water Science and Engineering, March 2015, Shahid Beheshti International Conference Centre, Tehran, Iran.",
+  "4th National Conference on Integrated Water Resources Management, November 2014, Shahid Bahonar University, Kerman, Iran.",
+  "2nd National Conference on On-Farm Water Management, October 2014, Soil and Water Research Institute, Karaj, Iran.",
+  "2nd National Conference on Water Crisis, September 2014, Shahrekord University, Shahrekord, Iran.",
+  "1st International Conference on Lake Urmia: Challenges and Solutions, December 2012, Urmia, Iran."
+ ],
+ "peer_review": "Reviewer for journals including Field Crops Research, Journal of Hydrology, European Journal of Agronomy, Agricultural and Forest Meteorology, Journal of Irrigation and Drainage, Australian Journal of Crop Science, Agronomy for Sustainable Development, Computers and Electronics in Agriculture, Spanish Journal of Agricultural Research, Climate Risk Management, Journal of Agriculture and Food Research, Stochastic Environmental Research and Risk Assessment, Agriculture, Groundwater for Sustainable Development and Heliyon."
+}
