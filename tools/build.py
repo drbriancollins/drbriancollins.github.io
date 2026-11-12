@@ -161,10 +161,7 @@ def build_publications():
         for s in PUBS["sections"]
     )
     scholar = next(l["url"] for l in SITE["links"] if l["label"] == "Google Scholar")
-    lead = (
-        f"{SITE['stats'][0]['value']} peer-reviewed papers, 3 books and 66 conference presentations. "
-        f'Citation metrics are on <a href="{scholar}" rel="noopener">Google Scholar</a>.'
-    )
+    lead = f'Citation metrics are on <a href="{scholar}" rel="noopener">Google Scholar</a>.'
     body = page_head("Publications and presentations", lead) + f'<p class="note">{e(PUBS["note"])}</p>'
     body += f'<nav class="toc" aria-label="Sections">{toc}</nav>' + secs
     return page("publications", "Publications", f"Full list of {total} publications and presentations by {SITE['name']}.", body)
