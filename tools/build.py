@@ -37,6 +37,13 @@ FAVICON = (
 
 e = lambda s: html.escape(s, quote=False)  # noqa: E731
 
+_SVG = '<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">{}</svg>'
+ICONS = {
+    "leaf": _SVG.format('<path d="M5 19c0-8 5-13 14-14-1 9-6 14-14 14z"/><path d="M5 19l7-7"/>'),
+    "chart": _SVG.format('<path d="M4 20V10"/><path d="M10 20V4"/><path d="M16 20v-7"/><path d="M22 20H2"/>'),
+    "check": _SVG.format('<rect x="3" y="4" width="18" height="17" rx="2"/><path d="M8 2v4M16 2v4"/><path d="M8 13l3 3 5-6"/>'),
+}
+
 
 def page(slug, title, description, body):
     depth = "../" if slug else ""
@@ -105,9 +112,15 @@ def build_index():
         "Sample code is on GitHub.",
         'Sample code is on <a href="https://github.com/drbriancollins/MySampleWork" rel="noopener">GitHub</a>.',
     )
-    expertise = "".join(
-        f'<div class="card"><h3>{e(g["group"])}</h3>{ul([e(i) for i in g["items"]])}</div>' for g in SITE["expertise"]
-    )
+    def exp_card(g):
+        chips = "".join(f"<li>{e(i)}</li>" for i in g["items"])
+        more = f'<a class="more" href="{g["more"]["href"]}">{e(g["more"]["label"])} →</a>' if g.get("more") else ""
+        return (
+            f'<div class="card exp"><div class="exp-head">{ICONS.get(g.get("icon"), "")}<h3>{e(g["group"])}</h3></div>'
+            f'<p class="exp-sum">{e(g["summary"])}</p><ul class="chips">{chips}</ul>{more}</div>'
+        )
+
+    expertise = "".join(exp_card(g) for g in SITE["expertise"])
     career = "".join(
         f'<li><span class="dates">{e(c["dates"])}</span><div><strong>{e(c["role"])}</strong>'
         f'<span class="org">{e(c["org"])}</span></div></li>'

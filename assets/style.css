@@ -74,6 +74,16 @@ h4 { font-size: .95rem; margin: 16px 0 4px; color: var(--muted); }
 .cards.wide { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); margin-top: 20px; }
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
 .card ul { margin: 0; padding-left: 18px; }
+.card.exp { display: flex; flex-direction: column; gap: 10px; padding: 18px; }
+.exp-head { display: flex; align-items: center; gap: 10px; }
+.exp-head h3 { margin: 0; font-size: 1.1rem; }
+.icon { width: 36px; height: 36px; padding: 7px; border-radius: 9px; background: var(--accent-soft); color: var(--accent); flex: none; }
+.exp-sum { margin: 0; color: var(--muted); font-size: .93rem; line-height: 1.45; }
+.chips { list-style: none; padding: 0; margin: 2px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.card .chips { padding-left: 0; }
+.chips li { font-size: .84rem; line-height: 1.3; padding: 5px 10px; border-radius: 999px; background: var(--bg); border: 1px solid var(--line); }
+.more { margin-top: auto; padding-top: 6px; font-size: .9rem; font-weight: 600; text-decoration: none; }
+.more:hover { text-decoration: underline; }
 .card dl { margin: 0; }
 .card dt { font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; color: var(--accent); margin-top: 8px; }
 .card dd { margin: 2px 0 0; font-size: .95rem; }
