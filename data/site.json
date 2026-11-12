@@ -11,11 +11,12 @@
   {"label": "GitHub", "url": "https://github.com/drbriancollins/MySampleWork"}
  ],
  "stats": [
-  {"value": "92", "label": "peer-reviewed papers, plus 3 books and 66 conference presentations"},
-  {"value": "~2,150", "label": "citations, h-index 21 (June 2026)"},
-  {"value": "14", "label": "funded research projects in Australia and Iran"},
-  {"value": "~AUD 2.5M", "label": "funding led or co-led; contributions to projects worth >AUD 4.6M"},
-  {"value": "15", "label": "postgraduate research supervisions"}
+  {"value": "~20", "label": "Years of experience", "sub": "Research, industry and engineering"},
+  {"value": "92", "label": "Peer-reviewed papers", "sub": "Plus 3 books and 66 presentations"},
+  {"value": "~2,150", "label": "Citations", "sub": "h-index 21 · June 2026"},
+  {"value": "14", "label": "Funded projects", "sub": "Across Australia and Iran"},
+  {"value": "AUD 2.5M", "label": "Funding led or co-led", "sub": "Contributed to projects worth >AUD 4.6M"},
+  {"value": "15", "label": "Research students", "sub": "PhD, MSc, MRes and internships"}
  ],
  "about": [
   "I am an agricultural scientist, data specialist and certified project manager with about 20 years of experience across research, industry and engineering roles in Australia, France and Iran. My work combines crop physiology, hydrology, agrometeorology and cropping-systems modelling with data engineering, analytics and machine learning.",

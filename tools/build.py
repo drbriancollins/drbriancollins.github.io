@@ -96,7 +96,9 @@ def page_head(title, lead=""):
 
 def build_index():
     stats = "".join(
-        f'<div class="stat"><strong>{e(s["value"])}</strong><span>{e(s["label"])}</span></div>' for s in SITE["stats"]
+        f'<div class="stat"><strong>{e(s["value"])}</strong><span class="label">{e(s["label"])}</span>'
+        f'<span class="sub">{e(s.get("sub", ""))}</span></div>'
+        for s in SITE["stats"]
     )
     about = "".join(f"<p>{e(p)}</p>" for p in SITE["about"])
     about = about.replace(

@@ -63,10 +63,12 @@ h4 { font-size: .95rem; margin: 16px 0 4px; color: var(--muted); }
 .button { border: 1px solid var(--line); background: var(--surface); padding: 6px 14px; border-radius: 999px; text-decoration: none; font-size: .93rem; }
 .button:hover { border-color: var(--accent); }
 
-.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 28px 0 8px; }
-.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; }
-.stat strong { display: block; font-size: 1.5rem; color: var(--accent); line-height: 1.2; }
-.stat span { font-size: .88rem; color: var(--muted); }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin: 28px 0 8px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-top: 3px solid var(--accent); border-radius: 10px; padding: 16px 18px; display: flex; flex-direction: column; gap: 2px; }
+.stat strong { font-size: 2rem; font-weight: 750; color: var(--accent); line-height: 1.1; letter-spacing: -.01em; font-variant-numeric: tabular-nums; }
+.stat .label { font-weight: 600; font-size: 1rem; margin-top: 6px; }
+.stat .sub { font-size: .85rem; color: var(--muted); line-height: 1.4; }
+@media (max-width: 760px) { .stats { grid-template-columns: repeat(2, 1fr); gap: 10px; } .stat strong { font-size: 1.6rem; } }
 
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
 .cards.wide { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); margin-top: 20px; }
