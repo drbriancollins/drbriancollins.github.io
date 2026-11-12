@@ -228,7 +228,17 @@ def build_404():
     return page("404", "Page not found", "Page not found.", body).replace('href="../', 'href="/')
 
 
+EXTERNAL_A = re.compile(r'<a href="(https?://[^"]+)"(?: rel="noopener")?')
+
+
+def external_links_new_tab(text):
+    """Open every off-site link in a new tab."""
+    return EXTERNAL_A.sub(lambda m: f'<a href="{m.group(1)}" target="_blank" rel="noopener noreferrer"', text)
+
+
 def write(rel, text):
+    if rel.endswith(".html"):
+        text = external_links_new_tab(text)
     p = ROOT / rel
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(text, encoding="utf-8", newline="\n")
